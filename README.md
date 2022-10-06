@@ -3,7 +3,7 @@
 
 <h2>Description</h2>
 Project will deminstrate how to use Active Directory to reset a user's password. When a user forgets their password they will be unable to access their
-account and the user should contact the IT team for help.
+account and the user should then contact the IT team for help. 
 <br />
 
 <h2>Languages and Utilities Used</h2>
@@ -16,13 +16,6 @@ account and the user should contact the IT team for help.
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
-
-<h4>Mike is the IT help desk worker and Cristina Barrier is the user.<br>
-Cristina is unable to login to her account and she doesn't remember her password.<br>
-Cristina tells Mike that she can't login into her account and thinks she forgot her password.<br>
-Mike asks for her username so he can do a password reset. She said her username is cbarrier.</h4>
-
-
 
 <p align="center">
 Windows Server: Select Active Directory Users and Computers <br/>
